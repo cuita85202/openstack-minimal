@@ -1,8 +1,4 @@
 # Openstack Minimal Deployment
-
-This project includes automation scripts for a minimal deployment for OpenStack (Yoga release)
-
-  => You can see the full installation in this demo: https://www.youtube.com/watch?v=bKgNCKeTBiQ&t=26s
   
 ## Introduction
 OpenStack consists of several independent parts, named the OpenStack services, all those services should be installed in the order specified below:
